@@ -54,3 +54,5 @@ Trunk-Based vs. Branch-Based Development:Trunk-based development involves freque
 Feature Toggle:A feature toggle is a mechanism to enable or disable a feature during runtime without changing the code. Useful for testing and gradual rollouts.
 
 Scenario for Branch-Based and Trunk-Based Development: Branch-based is suitable for larger features or changes requiring long-term development. Trunk-based is suitable for smaller, more frequent changes.
+
+hello aded new data here in vcs branch
