@@ -1,0 +1,21 @@
+date 6 feb
+Topic :build tools
+It is an software that automate the process of compiling code , managing dependencies and creating executable code.
+
+key objectives :
+Automate Compilation
+Manage Dependencies
+Task Automation
+Provide Structured Life Cycle.
+
+
+Problenms Solved by Buid tools
+
+Reduce Complexity
+Reduce Inconsistencies
+Help to reduce repetetive task.
+
+Buils Tools:
+Gradle
+Maven
+Ant 
