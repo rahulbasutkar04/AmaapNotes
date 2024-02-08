@@ -1,0 +1,48 @@
+Build Tools
+
+Build Tools are the software that automate the process of compilling code,managing dependencies and creating executable files out of it.
+Key Objectives:
+1)Automate compilation
+2) Manage Dependencies
+3)Task Automation
+4)Provides Structured Life Cycle
+
+Problems Solved By Build Tools:
+1)Reduce Complexity in compilation
+2)Reduce Inconsistencies
+3)Help to Reduce Repetative Task
+4)Running Test Cases
+5)Deploy on Production Environment
+
+Tools:
+1)Gradle
+2)Maven
+3)Ant
+
+
+Reasons To use build Tools:
+1)Downloading and managing the dependencies.
+2)Compiling source code into binary/exe code 
+3)Packaging the binary code
+4)Runiing the test cases
+5)Deployment
+
+
+Features:
+1)Continous Integration
+2)Gated CheckIns
+3)Nightly Builds
+
+
+Gradle:
+It is an Open source buils tools,helps to take care of multiple things at the same time..it runs on groovy code.
+
+Types of task performed by gradle
+1)Default Task
+2)Simple Task
+3)Grouped Task
+4)Copy Task
+5)Clean Task
+6)Java Task
+7)Build Task
+8)Parameter
