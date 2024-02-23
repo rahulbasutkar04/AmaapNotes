@@ -1,0 +1,20 @@
+Followings are the lowest Haning Fruits for 
+
+1) String Calculator
+
+If the input given by the user is empty then is should return message like "No values Found"
+
+2)BirthdayGreet
+
+Read the text document and pasrse it if it fails in pasring then furter process is not carried out.
+
+
+3)CQRS(Hotel Booking)
+
+In this First task was to check the whether Rooms are avalaible and in technical terms i forst gone throght the 
+database connectivity like if my application is connected to database or not.
+
+4)FizzBuzz 
+
+In this the lowest hanging fruit was like negaive input and if input is grater than 1000 then program should not able to 
+proceed further.
